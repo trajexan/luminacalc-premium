@@ -1,43 +1,51 @@
-# LuminaCalc — Premium Modern Calculator
+# 🌟 LuminaCalc — Premium Modern Calculator
 
-![LuminaCalc](https://github.com/trajexan/luminacalc-premium/blob/main/public/screenshot.png?raw=true)
+![LuminaCalc Preview](https://github.com/trajexan/luminacalc-premium/blob/main/public/screenshot.png?raw=true)
 
-A beautiful, luxurious calculator web app with glassmorphism design, smooth animations, history panel, keyboard support, and dark/light mode.
+A **beautiful, luxurious calculator** web app featuring glassmorphism design, buttery smooth animations, history panel, full keyboard support, and elegant dark/light mode.
 
-Built with **Lovable.dev** in collaboration with **Grok** to showcase seamless GitHub integration.
+**Showcase project** demonstrating seamless collaboration between **Grok** (with direct GitHub integration) and **Lovable AI**.
 
-## ✨ Features
+## ✨ Live Demo
 
-- **Premium Glassmorphism UI** with beautiful gradients and blur effects
-- **Full keyboard support** (numbers, operators, Backspace, Enter, Escape)
-- **History sidebar** – click any past calculation to reload it
-- **Copy result** to clipboard with feedback
-- **Dark & Light mode** toggle
-- **Responsive design** – works perfectly on mobile and desktop
-- **Advanced functions**: √, x², ±, %, AC, C
-- **Smooth animations** and micro-interactions
-- **TypeScript + React + Tailwind + shadcn/ui**
+→ **[Open LuminaCalc](https://lumina-smooth-calc.lovable.app)**
 
-## 🚀 Live Demo
+## 🔥 Key Features
 
-[View Live Demo](https://lumina-smooth-calc.lovable.app)
+- Elegant **glassmorphism** UI with backdrop blur
+- Smooth press animations & micro-interactions
+- **History panel** – click any past calculation to restore it
+- Full **keyboard support** (numbers, operators, Backspace, Enter, Escape)
+- Copy result to clipboard with visual feedback
+- Dark / Light mode with smooth transition
+- Advanced functions: square root, power, sign toggle, percentage
+- Fully responsive (mobile + desktop)
+- Clean, premium typography and spacing
 
 ## 🛠 Tech Stack
 
-- React 19 + TypeScript
-- Vite
-- Tailwind CSS
-- shadcn/ui
-- Framer Motion (animations)
-- Lucide React (icons)
+- **React 19** + **TypeScript**
+- **Vite** + **Tailwind CSS**
+- **shadcn/ui** components
+- **Framer Motion** for animations
+- **lucide-react** icons
 
-## Built With
+## 🤖 Built With
 
-- [Lovable.dev](https://lovable.dev) – AI-powered app builder
-- [Grok](https://grok.x.ai) – AI collaboration + GitHub integration
+- [Lovable.dev](https://lovable.dev) — AI-powered full-stack app builder
+- [Grok by xAI](https://grok.x.ai) — Planning, GitHub integration & polishing
 
 ---
 
-**Showcasing real-time GitHub integration between Lovable, Grok, and GitHub.**
+**This repository showcases real-time AI + GitHub collaboration.**
 
-Made with ❤️ by trajexan
+Made with ❤️ by [trajexan](https://github.com/trajexan)
+
+## Quick Start
+
+```bash
+git clone https://github.com/trajexan/luminacalc-premium.git
+cd luminacalc-premium
+npm install
+npm run dev
+```
