@@ -1,0 +1,78 @@
+{
+  "%23tanstack-start-plugin-adapters": {
+    "file": "assets/__23tanstack-start-plugin-adapters-Cwee5PKy.js",
+    "name": "__23tanstack-start-plugin-adapters",
+    "src": "%23tanstack-start-plugin-adapters",
+    "isDynamicEntry": true
+  },
+  "C:/Users/cws265/luminacalc-premium/src/styles.css": {
+    "file": "assets/styles-B8rYFkgQ.css",
+    "src": "C:/Users/cws265/luminacalc-premium/src/styles.css"
+  },
+  "_server-QQkYV8jP.js": {
+    "file": "assets/server-QQkYV8jP.js",
+    "name": "server",
+    "isDynamicEntry": true,
+    "dynamicImports": [
+      "tanstack-start-manifest:v",
+      "src/router.tsx",
+      "src/start.ts",
+      "%23tanstack-start-plugin-adapters"
+    ]
+  },
+  "_worker-entry-CPt8OCL-.js": {
+    "file": "assets/worker-entry-CPt8OCL-.js",
+    "name": "worker-entry",
+    "dynamicImports": [
+      "_server-QQkYV8jP.js"
+    ]
+  },
+  "src/router.tsx": {
+    "file": "assets/router-CvdDOviV.js",
+    "name": "router",
+    "src": "src/router.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_server-QQkYV8jP.js"
+    ],
+    "dynamicImports": [
+      "src/routes/index.tsx?tsr-split=component"
+    ],
+    "assets": [
+      "assets/styles-B8rYFkgQ.css"
+    ]
+  },
+  "src/routes/index.tsx?tsr-split=component": {
+    "file": "assets/index-CTK0PZzV.js",
+    "name": "index",
+    "src": "src/routes/index.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "_server-QQkYV8jP.js"
+    ]
+  },
+  "src/start.ts": {
+    "file": "assets/start-kgPbmCGJ.js",
+    "name": "start",
+    "src": "src/start.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_worker-entry-CPt8OCL-.js"
+    ]
+  },
+  "tanstack-start-manifest:v": {
+    "file": "assets/_tanstack-start-manifest_v-Bs3z3E78.js",
+    "name": "_tanstack-start-manifest_v",
+    "src": "tanstack-start-manifest:v",
+    "isDynamicEntry": true
+  },
+  "virtual:cloudflare/worker-entry": {
+    "file": "index.js",
+    "name": "index",
+    "src": "virtual:cloudflare/worker-entry",
+    "isEntry": true,
+    "imports": [
+      "_worker-entry-CPt8OCL-.js"
+    ]
+  }
+}
