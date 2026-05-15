@@ -35,3 +35,7 @@ Built with ❤️ using **Lovable AI** + **Grok** (direct GitHub integration)
 ---
 
 **Try it now:** [https://trajexan.github.io/luminacalc-premium](https://trajexan.github.io/luminacalc-premium)
+
+---
+
+*Version: v0.2 • Last updated: May 15, 2026*
